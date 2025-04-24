@@ -1,0 +1,190 @@
+
+=== Summary for Atlanta_City_Limits ===
+
+• For Investment Property applications:
+   - tract median age of housing units showed positive effects (R² avg = 0.083, coef avg = 0.253), significant in 83% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed positive effects (R² avg = 0.144, coef avg = 0.211), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.035, coef avg = 0.006), significant in 67% of models and classified as mixed; not reliably strong.
+   - tract to msa income percentage showed negative effects (R² avg = 0.08, coef avg = -0.057), significant in 100% of models and classified as mixed; not reliably strong.
+
+• For Principal Residence applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.024, coef avg = -1.411), significant in 67% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed negative effects (R² avg = 0.067, coef avg = -1.542), significant in 67% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.776, coef avg = 0.275), significant in 100% of models and classified as consistently strong; RELIABLE.
+   - tract to msa income percentage showed positive effects (R² avg = 0.154, coef avg = 0.879), significant in 100% of models and classified as mixed; not reliably strong.
+
+• For Second Residence applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.067, coef avg = -0.079), significant in 83% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed negative effects (R² avg = 0.035, coef avg = -0.033), significant in 67% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.172, coef avg = 0.004), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract to msa income percentage showed positive effects (R² avg = 0.05, coef avg = 0.015), significant in 67% of models and classified as mixed; not reliably strong.
+
+
+
+=== Summary for Cherokee ===
+
+• For Investment Property applications:
+   - tract median age of housing units showed mixed effects (R² avg = 0.011, coef avg = -0.135), significant in 0% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed positive effects (R² avg = 0.123, coef avg = 0.436), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed negative effects (R² avg = 0.016, coef avg = -0.003), significant in 0% of models and classified as mixed; not reliably strong.
+   - tract to msa income percentage showed negative effects (R² avg = 0.126, coef avg = -0.164), significant in 100% of models and classified as mixed; not reliably strong.
+
+• For Principal Residence applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.18, coef avg = -6.628), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed negative effects (R² avg = 0.063, coef avg = -2.318), significant in 0% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.424, coef avg = 0.147), significant in 100% of models and classified as consistently strong; RELIABLE.
+   - tract to msa income percentage showed positive effects (R² avg = 0.048, coef avg = 0.806), significant in 50% of models and classified as mixed; not reliably strong.
+
+• For Second Residence applications:
+   - tract median age of housing units showed mixed effects (R² avg = 0.002, coef avg = -0.007), significant in 0% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed negative effects (R² avg = 0.029, coef avg = -0.045), significant in 0% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.088, coef avg = 0.002), significant in 50% of models and classified as mixed; not reliably strong.
+   - tract to msa income percentage showed negative effects (R² avg = 0.007, coef avg = -0.011), significant in 0% of models and classified as mixed; not reliably strong.
+
+
+
+=== Summary for Clayton ===
+
+• For Investment Property applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.132, coef avg = -0.333), significant in 50% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed positive effects (R² avg = 0.011, coef avg = 0.092), significant in 0% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.378, coef avg = 0.011), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract to msa income percentage showed positive effects (R² avg = 0.099, coef avg = 0.15), significant in 67% of models and classified as mixed; not reliably strong.
+
+• For Principal Residence applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.242, coef avg = -10.567), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed negative effects (R² avg = 0.019, coef avg = -1.959), significant in 17% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.66, coef avg = 0.276), significant in 100% of models and classified as consistently strong; RELIABLE.
+   - tract to msa income percentage showed positive effects (R² avg = 0.301, coef avg = 5.922), significant in 100% of models and classified as mixed; not reliably strong.
+
+• For Second Residence applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.209, coef avg = -0.164), significant in 83% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed negative effects (R² avg = 0.065, coef avg = -0.068), significant in 17% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.368, coef avg = 0.003), significant in 83% of models and classified as mixed; not reliably strong.
+   - tract to msa income percentage showed positive effects (R² avg = 0.195, coef avg = 0.081), significant in 67% of models and classified as mixed; not reliably strong.
+
+
+
+=== Summary for Cobb ===
+
+• For Investment Property applications:
+   - tract median age of housing units showed mixed effects (R² avg = 0.047, coef avg = 0.069), significant in 33% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed positive effects (R² avg = 0.125, coef avg = 0.194), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.051, coef avg = 0.004), significant in 67% of models and classified as mixed; not reliably strong.
+   - tract to msa income percentage showed negative effects (R² avg = 0.152, coef avg = -0.095), significant in 100% of models and classified as mixed; not reliably strong.
+
+• For Principal Residence applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.195, coef avg = -9.806), significant in 83% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed negative effects (R² avg = 0.108, coef avg = -2.834), significant in 83% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.794, coef avg = 0.243), significant in 100% of models and classified as consistently strong; RELIABLE.
+   - tract to msa income percentage showed positive effects (R² avg = 0.172, coef avg = 1.599), significant in 100% of models and classified as mixed; not reliably strong.
+
+• For Second Residence applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.087, coef avg = -0.096), significant in 67% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed positive effects (R² avg = 0.016, coef avg = 0.011), significant in 17% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.132, coef avg = 0.002), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract to msa income percentage showed positive effects (R² avg = 0.003, coef avg = 0.002), significant in 0% of models and classified as mixed; not reliably strong.
+
+
+
+=== Summary for DeKalb ===
+
+• For Investment Property applications:
+   - tract median age of housing units showed mixed effects (R² avg = 0.005, coef avg = -0.031), significant in 0% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed positive effects (R² avg = 0.089, coef avg = 0.14), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.134, coef avg = 0.009), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract to msa income percentage showed negative effects (R² avg = 0.066, coef avg = -0.06), significant in 100% of models and classified as mixed; not reliably strong.
+
+• For Principal Residence applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.033, coef avg = -1.831), significant in 50% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed negative effects (R² avg = 0.035, coef avg = -0.738), significant in 50% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.731, coef avg = 0.228), significant in 100% of models and classified as consistently strong; RELIABLE.
+   - tract to msa income percentage showed positive effects (R² avg = 0.082, coef avg = 0.762), significant in 83% of models and classified as mixed; not reliably strong.
+
+• For Second Residence applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.039, coef avg = -0.037), significant in 33% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed positive effects (R² avg = 0.028, coef avg = 0.002), significant in 67% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.19, coef avg = 0.002), significant in 83% of models and classified as mixed; not reliably strong.
+   - tract to msa income percentage showed mixed effects (R² avg = 0.023, coef avg = 0.003), significant in 33% of models and classified as mixed; not reliably strong.
+
+
+
+=== Summary for Douglas ===
+
+• For Investment Property applications:
+   - tract median age of housing units showed positive effects (R² avg = 0.122, coef avg = 0.241), significant in 50% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed positive effects (R² avg = 0.021, coef avg = 0.059), significant in 0% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed mixed effects (R² avg = 0.013, coef avg = -0.001), significant in 0% of models and classified as mixed; not reliably strong.
+   - tract to msa income percentage showed negative effects (R² avg = 0.123, coef avg = -0.069), significant in 50% of models and classified as mixed; not reliably strong.
+
+• For Principal Residence applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.046, coef avg = -2.274), significant in 0% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed negative effects (R² avg = 0.114, coef avg = -1.726), significant in 0% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.753, coef avg = 0.197), significant in 100% of models and classified as consistently strong; RELIABLE.
+   - tract to msa income percentage showed positive effects (R² avg = 0.356, coef avg = 1.854), significant in 100% of models and classified as consistently strong; RELIABLE.
+
+
+
+=== Summary for Fulton ===
+
+• For Investment Property applications:
+   - tract median age of housing units showed positive effects (R² avg = 0.091, coef avg = 0.27), significant in 67% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed positive effects (R² avg = 0.147, coef avg = 0.222), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.034, coef avg = 0.004), significant in 50% of models and classified as mixed; not reliably strong.
+   - tract to msa income percentage showed negative effects (R² avg = 0.096, coef avg = -0.066), significant in 100% of models and classified as mixed; not reliably strong.
+
+• For Principal Residence applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.095, coef avg = -4.641), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed negative effects (R² avg = 0.067, coef avg = -2.034), significant in 67% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.735, coef avg = 0.282), significant in 100% of models and classified as consistently strong; RELIABLE.
+   - tract to msa income percentage showed positive effects (R² avg = 0.124, coef avg = 1.07), significant in 100% of models and classified as mixed; not reliably strong.
+
+• For Second Residence applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.057, coef avg = -0.084), significant in 67% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed negative effects (R² avg = 0.018, coef avg = -0.024), significant in 50% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.164, coef avg = 0.003), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract to msa income percentage showed positive effects (R² avg = 0.027, coef avg = 0.011), significant in 67% of models and classified as mixed; not reliably strong.
+
+
+
+=== Summary for Gwinnett ===
+
+• For Investment Property applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.117, coef avg = -0.936), significant in 67% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed negative effects (R² avg = 0.015, coef avg = -0.123), significant in 17% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.259, coef avg = 0.01), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract to msa income percentage showed mixed effects (R² avg = 0.004, coef avg = 0.012), significant in 0% of models and classified as mixed; not reliably strong.
+
+• For Principal Residence applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.286, coef avg = -27.844), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed negative effects (R² avg = 0.244, coef avg = -8.741), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.804, coef avg = 0.332), significant in 100% of models and classified as consistently strong; RELIABLE.
+   - tract to msa income percentage showed positive effects (R² avg = 0.197, coef avg = 3.943), significant in 100% of models and classified as mixed; not reliably strong.
+
+• For Second Residence applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.227, coef avg = -0.389), significant in 83% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed negative effects (R² avg = 0.087, coef avg = -0.078), significant in 83% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.464, coef avg = 0.004), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract to msa income percentage showed positive effects (R² avg = 0.047, coef avg = 0.03), significant in 67% of models and classified as mixed; not reliably strong.
+
+
+
+=== Summary for Henry ===
+
+• For Investment Property applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.013, coef avg = -0.061), significant in 0% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed positive effects (R² avg = 0.127, coef avg = 0.101), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.039, coef avg = 0.002), significant in 50% of models and classified as mixed; not reliably strong.
+   - tract to msa income percentage showed negative effects (R² avg = 0.066, coef avg = -0.049), significant in 50% of models and classified as mixed; not reliably strong.
+
+• For Principal Residence applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.18, coef avg = -7.571), significant in 100% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed negative effects (R² avg = 0.007, coef avg = -0.534), significant in 0% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed positive effects (R² avg = 0.552, coef avg = 0.231), significant in 100% of models and classified as consistently strong; RELIABLE.
+   - tract to msa income percentage showed positive effects (R² avg = 0.113, coef avg = 1.45), significant in 100% of models and classified as mixed; not reliably strong.
+
+• For Second Residence applications:
+   - tract median age of housing units showed negative effects (R² avg = 0.02, coef avg = -0.032), significant in 0% of models and classified as mixed; not reliably strong.
+   - tract minority population percent showed positive effects (R² avg = 0.008, coef avg = 0.008), significant in 0% of models and classified as mixed; not reliably strong.
+   - tract owner occupied units showed mixed effects (R² avg = 0.065, coef avg = 0.001), significant in 50% of models and classified as mixed; not reliably strong.
+   - tract to msa income percentage showed positive effects (R² avg = 0.013, coef avg = 0.008), significant in 0% of models and classified as mixed; not reliably strong.
