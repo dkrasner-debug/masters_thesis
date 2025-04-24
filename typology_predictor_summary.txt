@@ -1,0 +1,964 @@
+
+=== Summary for Typology: majority_typology_At Risk of Becoming Exclusive ===
+
+In 17 statistically significant models, this typology had a generally negative relationship with the outcome. Average coefficient: 3.339 (magnitude: 30.523), average R²: 0.232.
+
+  - 2023 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = 0.068, R² = 0.402, p = 0.01973, n = 255
+  - 2022 | Clayton | Principal_Residence | total_apps:
+    Coef = 172.125, R² = 0.269, p = 0.01073, n = 62
+  - 2023 | Clayton | Principal_Residence | total_apps:
+    Coef = 115.313, R² = 0.224, p = 0.0245, n = 63
+  - 2022 | Cobb | Investment_Property | total_apps:
+    Coef = -11.144, R² = 0.141, p = 0.03198, n = 172
+  - 2022 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.115, R² = 0.206, p = 0.0001053, n = 172
+  - 2022 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.131, R² = 0.206, p = 3.004e-05, n = 172
+  - 2023 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.101, R² = 0.213, p = 0.02259, n = 172
+  - 2022 | DeKalb | Investment_Property | total_apps:
+    Coef = -18.875, R² = 0.076, p = 0.02556, n = 148
+  - 2023 | DeKalb | Investment_Property | total_apps:
+    Coef = -23.542, R² = 0.195, p = 1.558e-05, n = 145
+  - 2023 | DeKalb | Principal_Residence | total_apps:
+    Coef = -116.250, R² = 0.147, p = 0.00842, n = 149
+  - 2022 | Douglas | Investment_Property | total_apps:
+    Coef = -13.357, R² = 0.154, p = 0.04649, n = 31
+  - 2023 | Douglas | Investment_Property | total_apps:
+    Coef = -12.786, R² = 0.266, p = 0.01015, n = 30
+  - 2022 | Fulton | Investment_Property | total_apps:
+    Coef = -21.667, R² = 0.220, p = 0.0003544, n = 135
+  - 2022 | Fulton | Principal_Residence | conversion_rate:
+    Coef = 0.089, R² = 0.404, p = 0.04884, n = 137
+  - 2022 | Fulton | Principal_Residence | denial_rate:
+    Coef = -0.108, R² = 0.356, p = 0.02709, n = 137
+  - 2023 | Fulton | Investment_Property | total_apps:
+    Coef = -13.101, R² = 0.253, p = 0.0009523, n = 130
+  - 2023 | Fulton | Principal_Residence | conversion_rate:
+    Coef = 0.123, R² = 0.208, p = 0.02213, n = 138
+
+=== Summary for Typology: majority_typology_At Risk of Gentrification ===
+
+In 15 statistically significant models, this typology had a generally negative relationship with the outcome. Average coefficient: -29.381 (magnitude: 33.472), average R²: 0.191.
+
+  - 2022 | Atlanta_City+Buffer | Investment_Property | total_apps:
+    Coef = 9.217, R² = 0.276, p = 0.03258, n = 252
+  - 2022 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.138, R² = 0.374, p = 2.535e-05, n = 253
+  - 2022 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = 0.119, R² = 0.322, p = 0.001058, n = 253
+  - 2022 | Atlanta_City+Buffer | Principal_Residence | total_apps:
+    Coef = -62.750, R² = 0.142, p = 0.02083, n = 253
+  - 2023 | Atlanta_City+Buffer | Investment_Property | total_apps:
+    Coef = 11.821, R² = 0.327, p = 0.002074, n = 246
+  - 2023 | Cobb | Principal_Residence | conversion_rate:
+    Coef = -0.160, R² = 0.179, p = 0.007875, n = 172
+  - 2023 | Cobb | Principal_Residence | denial_rate:
+    Coef = 0.184, R² = 0.213, p = 0.005564, n = 172
+  - 2022 | DeKalb | Investment_Property | total_apps:
+    Coef = -18.208, R² = 0.076, p = 0.0413, n = 148
+  - 2022 | DeKalb | Principal_Residence | total_apps:
+    Coef = -172.042, R² = 0.123, p = 0.007812, n = 150
+  - 2023 | DeKalb | Investment_Property | total_apps:
+    Coef = -23.167, R² = 0.195, p = 5.363e-05, n = 145
+  - 2023 | DeKalb | Principal_Residence | total_apps:
+    Coef = -178.396, R² = 0.147, p = 0.0001603, n = 149
+  - 2022 | Fulton | Investment_Property | total_apps:
+    Coef = -16.000, R² = 0.220, p = 0.04412, n = 135
+  - 2023 | Fulton | Second_Residence | total_apps:
+    Coef = 8.667, R² = 0.198, p = 0.004392, n = 81
+  - 2022 | Gwinnett | Second_Residence | conversion_rate:
+    Coef = -0.535, R² = 0.035, p = 0.04086, n = 177
+  - 2022 | Gwinnett | Second_Residence | denial_rate:
+    Coef = 0.679, R² = 0.038, p = 0.01291, n = 164
+
+=== Summary for Typology: majority_typology_Becoming Exclusive ===
+
+In 3 statistically significant models, this typology had a generally negative relationship with the outcome. Average coefficient: -16.637 (magnitude: 16.697), average R²: 0.224.
+
+  - 2023 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = 0.090, R² = 0.402, p = 0.04401, n = 255
+  - 2022 | DeKalb | Investment_Property | total_apps:
+    Coef = -25.333, R² = 0.076, p = 0.02888, n = 148
+  - 2023 | DeKalb | Investment_Property | total_apps:
+    Coef = -24.667, R² = 0.195, p = 0.0008207, n = 145
+
+=== Summary for Typology: majority_typology_Early/Ongoing Gentrification ===
+
+In 8 statistically significant models, this typology had a generally negative relationship with the outcome. Average coefficient: -55.367 (magnitude: 56.503), average R²: 0.138.
+
+  - 2022 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.106, R² = 0.206, p = 0.02989, n = 172
+  - 2022 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.147, R² = 0.206, p = 0.004861, n = 172
+  - 2022 | Cobb | Second_Residence | total_apps:
+    Coef = 4.000, R² = 0.048, p = 0.03764, n = 136
+  - 2022 | DeKalb | Investment_Property | total_apps:
+    Coef = -22.333, R² = 0.076, p = 0.03927, n = 148
+  - 2022 | DeKalb | Principal_Residence | total_apps:
+    Coef = -192.167, R² = 0.123, p = 0.0142, n = 150
+  - 2023 | DeKalb | Investment_Property | total_apps:
+    Coef = -26.000, R² = 0.195, p = 0.0004335, n = 145
+  - 2023 | DeKalb | Principal_Residence | total_apps:
+    Coef = -206.833, R² = 0.147, p = 0.000303, n = 149
+  - 2023 | Fulton | Investment_Property | conversion_rate:
+    Coef = 0.435, R² = 0.105, p = 0.04527, n = 130
+
+=== Summary for Typology: majority_typology_High Student Population ===
+
+In 10 statistically significant models, this typology had a generally mixed relationship with the outcome. Average coefficient: -18.928 (magnitude: 20.029), average R²: 0.175.
+
+  - 2022 | Atlanta_City+Buffer | Investment_Property | denial_rate:
+    Coef = 0.138, R² = 0.037, p = 0.0429, n = 250
+  - 2022 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.140, R² = 0.374, p = 0.0002602, n = 253
+  - 2022 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = 0.154, R² = 0.322, p = 0.0003155, n = 253
+  - 2022 | Atlanta_City+Buffer | Principal_Residence | total_apps:
+    Coef = -113.451, R² = 0.142, p = 0.0004236, n = 253
+  - 2022 | Atlanta_City+Buffer | Second_Residence | total_apps:
+    Coef = 3.077, R² = 0.064, p = 0.03322, n = 209
+  - 2023 | Atlanta_City+Buffer | Principal_Residence | total_apps:
+    Coef = -80.933, R² = 0.107, p = 0.0008747, n = 255
+  - 2023 | Atlanta_City+Buffer | Second_Residence | total_apps:
+    Coef = 2.000, R² = 0.078, p = 0.02162, n = 181
+  - 2022 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.139, R² = 0.206, p = 0.0005806, n = 172
+  - 2022 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.138, R² = 0.206, p = 0.001204, n = 172
+  - 2023 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.122, R² = 0.213, p = 0.04594, n = 172
+
+=== Summary for Typology: majority_typology_Low-Income/Susceptible to Displacement ===
+
+In 25 statistically significant models, this typology had a generally negative relationship with the outcome. Average coefficient: -18.483 (magnitude: 21.398), average R²: 0.193.
+
+  - 2022 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.133, R² = 0.374, p = 1.928e-05, n = 253
+  - 2022 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = 0.122, R² = 0.322, p = 0.0004006, n = 253
+  - 2023 | Atlanta_City+Buffer | Investment_Property | total_apps:
+    Coef = 10.868, R² = 0.327, p = 0.002916, n = 246
+  - 2023 | Atlanta_City+Buffer | Second_Residence | denial_rate:
+    Coef = 0.410, R² = 0.142, p = 0.01876, n = 168
+  - 2022 | Cherokee | Investment_Property | total_apps:
+    Coef = 15.615, R² = 0.114, p = 0.02584, n = 55
+  - 2022 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.063, R² = 0.206, p = 0.04344, n = 172
+  - 2022 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.077, R² = 0.206, p = 0.02051, n = 172
+  - 2023 | DeKalb | Investment_Property | total_apps:
+    Coef = -18.248, R² = 0.195, p = 0.0007178, n = 145
+  - 2023 | DeKalb | Principal_Residence | total_apps:
+    Coef = -126.000, R² = 0.147, p = 0.004451, n = 149
+  - 2023 | Douglas | Principal_Residence | conversion_rate:
+    Coef = -0.192, R² = 0.418, p = 0.01039, n = 31
+  - 2023 | Douglas | Principal_Residence | denial_rate:
+    Coef = 0.223, R² = 0.365, p = 0.02709, n = 31
+  - 2022 | Fulton | Investment_Property | total_apps:
+    Coef = -14.933, R² = 0.220, p = 0.0136, n = 135
+  - 2023 | Fulton | Investment_Property | total_apps:
+    Coef = -8.140, R² = 0.253, p = 0.03969, n = 130
+  - 2023 | Fulton | Principal_Residence | total_apps:
+    Coef = -104.333, R² = 0.058, p = 0.04935, n = 138
+  - 2023 | Fulton | Second_Residence | total_apps:
+    Coef = 3.333, R² = 0.198, p = 0.04679, n = 81
+  - 2022 | Gwinnett | Principal_Residence | conversion_rate:
+    Coef = -0.040, R² = 0.057, p = 0.005097, n = 220
+  - 2022 | Gwinnett | Principal_Residence | denial_rate:
+    Coef = 0.045, R² = 0.064, p = 0.004376, n = 220
+  - 2022 | Gwinnett | Principal_Residence | total_apps:
+    Coef = -129.998, R² = 0.272, p = 5.863e-10, n = 220
+  - 2022 | Gwinnett | Second_Residence | total_apps:
+    Coef = -0.981, R² = 0.075, p = 0.04015, n = 177
+  - 2023 | Gwinnett | Investment_Property | denial_rate:
+    Coef = -0.091, R² = 0.030, p = 0.03049, n = 211
+  - 2023 | Gwinnett | Principal_Residence | conversion_rate:
+    Coef = -0.040, R² = 0.093, p = 0.01053, n = 220
+  - 2023 | Gwinnett | Principal_Residence | total_apps:
+    Coef = -95.226, R² = 0.242, p = 2.717e-09, n = 220
+  - 2022 | Henry | Investment_Property | total_apps:
+    Coef = 5.677, R² = 0.099, p = 0.02197, n = 58
+  - 2022 | Henry | Principal_Residence | conversion_rate:
+    Coef = -0.076, R² = 0.179, p = 0.0009292, n = 59
+  - 2022 | Henry | Principal_Residence | denial_rate:
+    Coef = 0.075, R² = 0.162, p = 0.001833, n = 59
+
+=== Summary for Typology: majority_typology_Ongoing Displacement ===
+
+In 9 statistically significant models, this typology had a generally negative relationship with the outcome. Average coefficient: 0.474 (magnitude: 5.704), average R²: 0.232.
+
+  - 2022 | Atlanta_City+Buffer | Investment_Property | total_apps:
+    Coef = 13.333, R² = 0.276, p = 0.006902, n = 252
+  - 2022 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.117, R² = 0.374, p = 0.001566, n = 253
+  - 2022 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = 0.108, R² = 0.322, p = 0.008623, n = 253
+  - 2023 | Atlanta_City+Buffer | Investment_Property | total_apps:
+    Coef = 14.181, R² = 0.327, p = 0.001153, n = 246
+  - 2023 | Atlanta_City+Buffer | Second_Residence | conversion_rate:
+    Coef = -0.355, R² = 0.135, p = 0.03269, n = 181
+  - 2022 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.169, R² = 0.206, p = 0.01186, n = 172
+  - 2023 | Cobb | Investment_Property | conversion_rate:
+    Coef = -0.562, R² = 0.052, p = 0.03642, n = 169
+  - 2023 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.178, R² = 0.179, p = 0.04245, n = 172
+  - 2022 | Fulton | Investment_Property | total_apps:
+    Coef = -22.333, R² = 0.220, p = 0.0469, n = 135
+
+=== Summary for Typology: majority_typology_Stable Moderate/Mixed Income ===
+
+In 30 statistically significant models, this typology had a generally negative relationship with the outcome. Average coefficient: 7.870 (magnitude: 31.071), average R²: 0.199.
+
+  - 2022 | Atlanta_City+Buffer | Investment_Property | total_apps:
+    Coef = -9.783, R² = 0.276, p = 0.01207, n = 252
+  - 2023 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = 0.079, R² = 0.402, p = 0.005156, n = 255
+  - 2023 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = -0.068, R² = 0.321, p = 0.04032, n = 254
+  - 2022 | Cherokee | Principal_Residence | conversion_rate:
+    Coef = 0.025, R² = 0.082, p = 0.03922, n = 56
+  - 2022 | Cherokee | Principal_Residence | denial_rate:
+    Coef = -0.023, R² = 0.103, p = 0.03502, n = 56
+  - 2022 | Cherokee | Second_Residence | conversion_rate:
+    Coef = 0.284, R² = 0.215, p = 0.007242, n = 44
+  - 2022 | Clayton | Principal_Residence | total_apps:
+    Coef = 202.050, R² = 0.269, p = 0.01246, n = 62
+  - 2023 | Clayton | Principal_Residence | total_apps:
+    Coef = 126.100, R² = 0.224, p = 0.03966, n = 63
+  - 2022 | Cobb | Investment_Property | total_apps:
+    Coef = -13.101, R² = 0.141, p = 0.01188, n = 172
+  - 2022 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.120, R² = 0.206, p = 4.902e-05, n = 172
+  - 2022 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.133, R² = 0.206, p = 2.248e-05, n = 172
+  - 2023 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.100, R² = 0.213, p = 0.0238, n = 172
+  - 2022 | DeKalb | Investment_Property | total_apps:
+    Coef = -22.679, R² = 0.076, p = 0.009057, n = 148
+  - 2023 | DeKalb | Investment_Property | total_apps:
+    Coef = -24.852, R² = 0.195, p = 8.572e-06, n = 145
+  - 2023 | DeKalb | Principal_Residence | total_apps:
+    Coef = -113.556, R² = 0.147, p = 0.01175, n = 149
+  - 2022 | Douglas | Principal_Residence | total_apps:
+    Coef = 152.125, R² = 0.306, p = 0.04251, n = 31
+  - 2023 | Douglas | Investment_Property | total_apps:
+    Coef = -11.437, R² = 0.266, p = 0.01345, n = 30
+  - 2022 | Fulton | Investment_Property | total_apps:
+    Coef = -21.667, R² = 0.220, p = 0.0002235, n = 135
+  - 2022 | Fulton | Principal_Residence | conversion_rate:
+    Coef = 0.138, R² = 0.404, p = 0.001903, n = 137
+  - 2022 | Fulton | Principal_Residence | denial_rate:
+    Coef = -0.153, R² = 0.356, p = 0.001323, n = 137
+  - 2023 | Fulton | Investment_Property | total_apps:
+    Coef = -14.467, R² = 0.253, p = 0.0001697, n = 130
+  - 2023 | Fulton | Principal_Residence | conversion_rate:
+    Coef = 0.142, R² = 0.208, p = 0.006503, n = 138
+  - 2023 | Fulton | Principal_Residence | denial_rate:
+    Coef = -0.133, R² = 0.178, p = 0.02311, n = 138
+  - 2023 | Fulton | Principal_Residence | total_apps:
+    Coef = -115.269, R² = 0.058, p = 0.02328, n = 138
+  - 2022 | Gwinnett | Investment_Property | conversion_rate:
+    Coef = 0.071, R² = 0.042, p = 0.01807, n = 220
+  - 2022 | Gwinnett | Investment_Property | denial_rate:
+    Coef = -0.059, R² = 0.047, p = 0.006447, n = 217
+  - 2022 | Gwinnett | Principal_Residence | total_apps:
+    Coef = 34.524, R² = 0.272, p = 0.03836, n = 220
+  - 2023 | Gwinnett | Second_Residence | total_apps:
+    Coef = -0.543, R² = 0.042, p = 0.03002, n = 129
+  - 2023 | Henry | Investment_Property | total_apps:
+    Coef = 3.423, R² = 0.105, p = 0.0184, n = 56
+  - 2023 | Henry | Principal_Residence | total_apps:
+    Coef = 65.031, R² = 0.134, p = 0.01942, n = 59
+
+=== Summary for Typology: majority_typology_Stable/Advanced Exclusive ===
+
+In 18 statistically significant models, this typology had a generally negative relationship with the outcome. Average coefficient: -12.982 (magnitude: 13.156), average R²: 0.223.
+
+  - 2022 | Atlanta_City+Buffer | Investment_Property | total_apps:
+    Coef = -11.954, R² = 0.276, p = 0.01039, n = 252
+  - 2023 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = 0.104, R² = 0.402, p = 0.002174, n = 255
+  - 2023 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = -0.099, R² = 0.321, p = 0.01259, n = 254
+  - 2022 | Cobb | Investment_Property | total_apps:
+    Coef = -16.536, R² = 0.141, p = 0.009173, n = 172
+  - 2022 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.136, R² = 0.206, p = 0.0001554, n = 172
+  - 2022 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.154, R² = 0.206, p = 5.745e-05, n = 172
+  - 2023 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.100, R² = 0.179, p = 0.04067, n = 172
+  - 2023 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.130, R² = 0.213, p = 0.01618, n = 172
+  - 2022 | DeKalb | Investment_Property | total_apps:
+    Coef = -29.667, R² = 0.076, p = 0.01074, n = 148
+  - 2023 | DeKalb | Investment_Property | total_apps:
+    Coef = -29.167, R² = 0.195, p = 0.0004154, n = 145
+  - 2023 | DeKalb | Second_Residence | conversion_rate:
+    Coef = 0.917, R² = 0.119, p = 0.03628, n = 88
+  - 2022 | Fulton | Investment_Property | total_apps:
+    Coef = -27.571, R² = 0.220, p = 8.734e-06, n = 135
+  - 2022 | Fulton | Principal_Residence | conversion_rate:
+    Coef = 0.158, R² = 0.404, p = 0.0006556, n = 137
+  - 2022 | Fulton | Principal_Residence | denial_rate:
+    Coef = -0.167, R² = 0.356, p = 0.0007492, n = 137
+  - 2023 | Fulton | Investment_Property | total_apps:
+    Coef = -16.222, R² = 0.253, p = 6.73e-05, n = 130
+  - 2023 | Fulton | Principal_Residence | conversion_rate:
+    Coef = 0.158, R² = 0.208, p = 0.003658, n = 138
+  - 2023 | Fulton | Principal_Residence | denial_rate:
+    Coef = -0.153, R² = 0.178, p = 0.0119, n = 138
+  - 2023 | Fulton | Principal_Residence | total_apps:
+    Coef = -103.424, R² = 0.058, p = 0.04997, n = 138
+
+=== Summary for Typology: majority_typology_Unavailable or Unreliable Data ===
+
+In 3 statistically significant models, this typology had a generally negative relationship with the outcome. Average coefficient: -37.691 (magnitude: 38.160), average R²: 0.277.
+
+  - 2023 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.510, R² = 0.402, p = 2.541e-11, n = 255
+  - 2023 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = 0.704, R² = 0.321, p = 7.915e-09, n = 254
+  - 2023 | Atlanta_City+Buffer | Principal_Residence | total_apps:
+    Coef = -113.267, R² = 0.107, p = 0.01598, n = 255
+
+=== Summary for Typology: typology_At Risk of Becoming Exclusive ===
+
+In 31 statistically significant models, this typology had a generally negative relationship with the outcome. Average coefficient: 25.439 (magnitude: 89.460), average R²: 0.294.
+
+  - 2018 | Atlanta_City+Buffer | Second_Residence | conversion_rate:
+    Coef = 0.230, R² = 0.147, p = 0.0367, n = 167
+  - 2018 | Clayton | Principal_Residence | total_apps:
+    Coef = 316.375, R² = 0.398, p = 0.005855, n = 45
+  - 2019 | Clayton | Principal_Residence | total_apps:
+    Coef = 400.167, R² = 0.361, p = 0.006981, n = 45
+  - 2020 | Clayton | Principal_Residence | total_apps:
+    Coef = 511.000, R² = 0.357, p = 0.006752, n = 45
+  - 2021 | Clayton | Principal_Residence | total_apps:
+    Coef = 551.833, R² = 0.355, p = 0.007522, n = 45
+  - 2021 | Clayton | Second_Residence | conversion_rate:
+    Coef = 0.570, R² = 0.152, p = 0.03438, n = 37
+  - 2021 | Clayton | Second_Residence | denial_rate:
+    Coef = -0.696, R² = 0.227, p = 0.01073, n = 34
+  - 2018 | Cobb | Investment_Property | total_apps:
+    Coef = -20.077, R² = 0.136, p = 0.01198, n = 110
+  - 2018 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.146, R² = 0.175, p = 0.0005421, n = 109
+  - 2018 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.165, R² = 0.159, p = 0.0005309, n = 109
+  - 2019 | Cobb | Investment_Property | total_apps:
+    Coef = -19.090, R² = 0.191, p = 0.01593, n = 109
+  - 2019 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.189, R² = 0.448, p = 0.0001104, n = 110
+  - 2019 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.185, R² = 0.273, p = 2.113e-05, n = 109
+  - 2020 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.115, R² = 0.269, p = 0.008685, n = 110
+  - 2020 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.134, R² = 0.240, p = 0.0002293, n = 110
+  - 2021 | Cobb | Investment_Property | total_apps:
+    Coef = -24.295, R² = 0.144, p = 0.04211, n = 109
+  - 2021 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.094, R² = 0.481, p = 0.02761, n = 110
+  - 2021 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.090, R² = 0.212, p = 0.005281, n = 109
+  - 2018 | DeKalb | Investment_Property | total_apps:
+    Coef = -32.233, R² = 0.252, p = 0.0001407, n = 98
+  - 2019 | DeKalb | Investment_Property | total_apps:
+    Coef = -39.569, R² = 0.266, p = 2.221e-05, n = 97
+  - 2020 | DeKalb | Investment_Property | total_apps:
+    Coef = -29.800, R² = 0.229, p = 0.002638, n = 98
+  - 2021 | DeKalb | Investment_Property | total_apps:
+    Coef = -42.833, R² = 0.209, p = 0.001956, n = 99
+  - 2018 | Fulton | Investment_Property | total_apps:
+    Coef = -52.909, R² = 0.243, p = 0.001912, n = 68
+  - 2018 | Fulton | Principal_Residence | total_apps:
+    Coef = -500.364, R² = 0.144, p = 0.04469, n = 68
+  - 2019 | Fulton | Investment_Property | total_apps:
+    Coef = -58.000, R² = 0.313, p = 5.985e-05, n = 68
+  - 2020 | Fulton | Investment_Property | total_apps:
+    Coef = -73.455, R² = 0.226, p = 0.004873, n = 68
+  - 2020 | Fulton | Principal_Residence | conversion_rate:
+    Coef = 0.098, R² = 0.549, p = 0.04271, n = 68
+  - 2020 | Fulton | Principal_Residence | denial_rate:
+    Coef = -0.109, R² = 0.532, p = 0.033, n = 68
+  - 2021 | Fulton | Investment_Property | total_apps:
+    Coef = -98.182, R² = 0.271, p = 0.002432, n = 68
+  - 2021 | Fulton | Principal_Residence | conversion_rate:
+    Coef = 0.117, R² = 0.561, p = 0.03122, n = 68
+  - 2021 | Fulton | Principal_Residence | denial_rate:
+    Coef = -0.129, R² = 0.588, p = 0.006997, n = 68
+
+=== Summary for Typology: typology_At Risk of Gentrification ===
+
+In 40 statistically significant models, this typology had a generally negative relationship with the outcome. Average coefficient: -108.101 (magnitude: 108.258), average R²: 0.291.
+
+  - 2018 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.117, R² = 0.452, p = 0.000317, n = 189
+  - 2018 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = 0.122, R² = 0.447, p = 0.0003024, n = 189
+  - 2018 | Atlanta_City+Buffer | Principal_Residence | total_apps:
+    Coef = -120.000, R² = 0.278, p = 0.01418, n = 189
+  - 2019 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.119, R² = 0.490, p = 0.001333, n = 192
+  - 2019 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = 0.133, R² = 0.501, p = 0.001408, n = 192
+  - 2019 | Atlanta_City+Buffer | Principal_Residence | total_apps:
+    Coef = -140.115, R² = 0.249, p = 0.02675, n = 192
+  - 2020 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.146, R² = 0.454, p = 9.161e-06, n = 192
+  - 2020 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = 0.128, R² = 0.373, p = 0.0005285, n = 192
+  - 2020 | Atlanta_City+Buffer | Principal_Residence | total_apps:
+    Coef = -238.119, R² = 0.329, p = 0.007073, n = 192
+  - 2020 | Atlanta_City+Buffer | Second_Residence | conversion_rate:
+    Coef = -0.229, R² = 0.100, p = 0.01883, n = 176
+  - 2020 | Atlanta_City+Buffer | Second_Residence | denial_rate:
+    Coef = 0.217, R² = 0.110, p = 0.02059, n = 169
+  - 2021 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.144, R² = 0.686, p = 5.593e-09, n = 192
+  - 2021 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = 0.139, R² = 0.627, p = 1.738e-07, n = 191
+  - 2021 | Atlanta_City+Buffer | Principal_Residence | total_apps:
+    Coef = -204.814, R² = 0.292, p = 0.02183, n = 192
+  - 2021 | Atlanta_City+Buffer | Second_Residence | denial_rate:
+    Coef = 0.277, R² = 0.197, p = 0.004275, n = 170
+  - 2019 | Clayton | Second_Residence | conversion_rate:
+    Coef = 0.644, R² = 0.339, p = 0.00616, n = 36
+  - 2019 | Clayton | Second_Residence | denial_rate:
+    Coef = -0.616, R² = 0.234, p = 0.01626, n = 35
+  - 2021 | Clayton | Second_Residence | denial_rate:
+    Coef = -0.574, R² = 0.227, p = 0.0305, n = 34
+  - 2018 | Cobb | Investment_Property | total_apps:
+    Coef = -28.500, R² = 0.136, p = 0.00977, n = 110
+  - 2019 | Cobb | Principal_Residence | conversion_rate:
+    Coef = -0.149, R² = 0.448, p = 0.02355, n = 110
+  - 2020 | Cobb | Investment_Property | total_apps:
+    Coef = -26.000, R² = 0.128, p = 0.04676, n = 110
+  - 2020 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.284, R² = 0.269, p = 6.205e-06, n = 110
+  - 2020 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.180, R² = 0.240, p = 0.0003335, n = 110
+  - 2021 | Cobb | Principal_Residence | conversion_rate:
+    Coef = -0.284, R² = 0.481, p = 3.861e-06, n = 110
+  - 2018 | DeKalb | Investment_Property | total_apps:
+    Coef = -37.083, R² = 0.252, p = 3.258e-05, n = 98
+  - 2018 | DeKalb | Principal_Residence | total_apps:
+    Coef = -226.000, R² = 0.161, p = 0.03334, n = 100
+  - 2019 | DeKalb | Investment_Property | total_apps:
+    Coef = -42.250, R² = 0.266, p = 1.519e-05, n = 97
+  - 2019 | DeKalb | Principal_Residence | total_apps:
+    Coef = -247.250, R² = 0.189, p = 0.02849, n = 100
+  - 2020 | DeKalb | Investment_Property | total_apps:
+    Coef = -34.833, R² = 0.229, p = 0.0008356, n = 98
+  - 2021 | DeKalb | Investment_Property | total_apps:
+    Coef = -50.167, R² = 0.209, p = 0.0005693, n = 99
+  - 2018 | Fulton | Investment_Property | total_apps:
+    Coef = -44.500, R² = 0.243, p = 0.02325, n = 68
+  - 2018 | Fulton | Principal_Residence | denial_rate:
+    Coef = 0.186, R² = 0.609, p = 0.008769, n = 68
+  - 2018 | Fulton | Principal_Residence | total_apps:
+    Coef = -722.500, R² = 0.144, p = 0.01423, n = 68
+  - 2019 | Fulton | Investment_Property | total_apps:
+    Coef = -54.500, R² = 0.313, p = 0.0009988, n = 68
+  - 2019 | Fulton | Principal_Residence | total_apps:
+    Coef = -841.000, R² = 0.125, p = 0.02846, n = 68
+  - 2020 | Fulton | Investment_Property | total_apps:
+    Coef = -69.500, R² = 0.226, p = 0.02159, n = 68
+  - 2020 | Fulton | Principal_Residence | total_apps:
+    Coef = -1100.000, R² = 0.176, p = 0.03904, n = 68
+  - 2021 | Fulton | Investment_Property | total_apps:
+    Coef = -97.500, R² = 0.271, p = 0.009468, n = 68
+  - 2018 | Gwinnett | Second_Residence | denial_rate:
+    Coef = 0.662, R² = 0.079, p = 0.02197, n = 102
+  - 2020 | Gwinnett | Second_Residence | denial_rate:
+    Coef = 0.354, R² = 0.071, p = 0.04665, n = 100
+
+=== Summary for Typology: typology_Becoming Exclusive ===
+
+In 11 statistically significant models, this typology had a generally negative relationship with the outcome. Average coefficient: -15.024 (magnitude: 18.596), average R²: 0.265.
+
+  - 2018 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = 0.124, R² = 0.452, p = 0.008313, n = 189
+  - 2018 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = -0.113, R² = 0.447, p = 0.02014, n = 189
+  - 2018 | Atlanta_City+Buffer | Second_Residence | conversion_rate:
+    Coef = 0.354, R² = 0.147, p = 0.04693, n = 167
+  - 2018 | Atlanta_City+Buffer | Second_Residence | total_apps:
+    Coef = 8.100, R² = 0.150, p = 0.004745, n = 167
+  - 2019 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = -0.127, R² = 0.501, p = 0.0363, n = 192
+  - 2020 | Atlanta_City+Buffer | Second_Residence | total_apps:
+    Coef = 10.455, R² = 0.158, p = 0.006606, n = 176
+  - 2018 | DeKalb | Investment_Property | total_apps:
+    Coef = -42.833, R² = 0.252, p = 5.647e-05, n = 98
+  - 2019 | DeKalb | Investment_Property | total_apps:
+    Coef = -47.500, R² = 0.266, p = 4.269e-05, n = 97
+  - 2019 | DeKalb | Second_Residence | conversion_rate:
+    Coef = 0.611, R² = 0.101, p = 0.04277, n = 86
+  - 2020 | DeKalb | Investment_Property | total_apps:
+    Coef = -37.500, R² = 0.229, p = 0.002476, n = 98
+  - 2021 | DeKalb | Investment_Property | total_apps:
+    Coef = -56.833, R² = 0.209, p = 0.001051, n = 99
+
+=== Summary for Typology: typology_Early/Ongoing Gentrification ===
+
+In 22 statistically significant models, this typology had a generally negative relationship with the outcome. Average coefficient: -59.258 (magnitude: 59.383), average R²: 0.217.
+
+  - 2020 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.120, R² = 0.454, p = 0.002652, n = 192
+  - 2021 | Atlanta_City+Buffer | Investment_Property | denial_rate:
+    Coef = 0.135, R² = 0.099, p = 0.01373, n = 191
+  - 2018 | Cobb | Investment_Property | total_apps:
+    Coef = -25.000, R² = 0.136, p = 0.0229, n = 110
+  - 2018 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.159, R² = 0.175, p = 0.005552, n = 109
+  - 2018 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.195, R² = 0.159, p = 0.002753, n = 109
+  - 2018 | Cobb | Second_Residence | conversion_rate:
+    Coef = 0.750, R² = 0.103, p = 0.01344, n = 101
+  - 2018 | Cobb | Second_Residence | denial_rate:
+    Coef = -0.667, R² = 0.123, p = 0.03084, n = 96
+  - 2019 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.191, R² = 0.448, p = 0.003914, n = 110
+  - 2019 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.151, R² = 0.273, p = 0.009392, n = 109
+  - 2018 | DeKalb | Investment_Property | total_apps:
+    Coef = -33.167, R² = 0.252, p = 0.001506, n = 98
+  - 2019 | DeKalb | Investment_Property | total_apps:
+    Coef = -46.167, R² = 0.266, p = 6.682e-05, n = 97
+  - 2019 | DeKalb | Principal_Residence | total_apps:
+    Coef = -263.833, R² = 0.189, p = 0.04991, n = 100
+  - 2020 | DeKalb | Investment_Property | total_apps:
+    Coef = -33.167, R² = 0.229, p = 0.007122, n = 98
+  - 2020 | DeKalb | Second_Residence | conversion_rate:
+    Coef = -0.708, R² = 0.089, p = 0.02077, n = 85
+  - 2021 | DeKalb | Investment_Property | total_apps:
+    Coef = -44.167, R² = 0.209, p = 0.01, n = 99
+  - 2018 | Fulton | Investment_Property | total_apps:
+    Coef = -42.000, R² = 0.243, p = 0.03182, n = 68
+  - 2018 | Fulton | Principal_Residence | total_apps:
+    Coef = -610.500, R² = 0.144, p = 0.03697, n = 68
+  - 2019 | Fulton | Investment_Property | total_apps:
+    Coef = -48.500, R² = 0.313, p = 0.003125, n = 68
+  - 2020 | Fulton | Investment_Property | total_apps:
+    Coef = -73.000, R² = 0.226, p = 0.01605, n = 68
+  - 2021 | Fulton | Investment_Property | total_apps:
+    Coef = -83.500, R² = 0.271, p = 0.02519, n = 68
+  - 2020 | Gwinnett | Principal_Residence | conversion_rate:
+    Coef = 0.136, R² = 0.142, p = 0.03005, n = 113
+  - 2020 | Gwinnett | Principal_Residence | denial_rate:
+    Coef = -0.213, R² = 0.223, p = 0.0005265, n = 113
+
+=== Summary for Typology: typology_High Student Population ===
+
+In 21 statistically significant models, this typology had a generally negative relationship with the outcome. Average coefficient: -41.830 (magnitude: 41.999), average R²: 0.243.
+
+  - 2018 | Atlanta_City+Buffer | Principal_Residence | total_apps:
+    Coef = -140.980, R² = 0.278, p = 0.01785, n = 189
+  - 2018 | Atlanta_City+Buffer | Second_Residence | conversion_rate:
+    Coef = 0.331, R² = 0.147, p = 0.02053, n = 167
+  - 2018 | Atlanta_City+Buffer | Second_Residence | denial_rate:
+    Coef = -0.306, R² = 0.144, p = 0.04225, n = 163
+  - 2019 | Atlanta_City+Buffer | Investment_Property | denial_rate:
+    Coef = 0.164, R² = 0.156, p = 0.01509, n = 188
+  - 2019 | Atlanta_City+Buffer | Principal_Residence | total_apps:
+    Coef = -172.747, R² = 0.249, p = 0.02593, n = 192
+  - 2020 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.088, R² = 0.454, p = 0.02624, n = 192
+  - 2020 | Atlanta_City+Buffer | Principal_Residence | total_apps:
+    Coef = -275.394, R² = 0.329, p = 0.01098, n = 192
+  - 2021 | Atlanta_City+Buffer | Principal_Residence | total_apps:
+    Coef = -248.838, R² = 0.292, p = 0.02304, n = 192
+  - 2018 | Cobb | Investment_Property | total_apps:
+    Coef = -19.667, R² = 0.136, p = 0.04918, n = 110
+  - 2018 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.157, R² = 0.175, p = 0.002824, n = 109
+  - 2018 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.181, R² = 0.159, p = 0.002343, n = 109
+  - 2018 | Cobb | Second_Residence | denial_rate:
+    Coef = -0.667, R² = 0.123, p = 0.03084, n = 96
+  - 2019 | Cobb | Investment_Property | total_apps:
+    Coef = -20.167, R² = 0.191, p = 0.04225, n = 109
+  - 2019 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.165, R² = 0.448, p = 0.006479, n = 110
+  - 2019 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.169, R² = 0.273, p = 0.001606, n = 109
+  - 2019 | Cobb | Second_Residence | conversion_rate:
+    Coef = 0.700, R² = 0.164, p = 0.01131, n = 100
+  - 2019 | Cobb | Second_Residence | denial_rate:
+    Coef = -0.700, R² = 0.180, p = 0.006352, n = 95
+  - 2020 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.148, R² = 0.269, p = 0.007476, n = 110
+  - 2020 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.187, R² = 0.240, p = 5.343e-05, n = 110
+  - 2021 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.110, R² = 0.481, p = 0.04153, n = 110
+  - 2021 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.108, R² = 0.212, p = 0.007252, n = 109
+
+=== Summary for Typology: typology_Low-Income/Susceptible to Displacement ===
+
+In 41 statistically significant models, this typology had a generally negative relationship with the outcome. Average coefficient: -57.994 (magnitude: 58.061), average R²: 0.256.
+
+  - 2018 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.083, R² = 0.452, p = 0.005925, n = 189
+  - 2018 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = 0.089, R² = 0.447, p = 0.004561, n = 189
+  - 2019 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.082, R² = 0.490, p = 0.01827, n = 192
+  - 2019 | Atlanta_City+Buffer | Second_Residence | denial_rate:
+    Coef = 0.286, R² = 0.164, p = 0.02024, n = 168
+  - 2020 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.119, R² = 0.454, p = 0.0001209, n = 192
+  - 2020 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = 0.106, R² = 0.373, p = 0.002234, n = 192
+  - 2020 | Atlanta_City+Buffer | Principal_Residence | total_apps:
+    Coef = -173.356, R² = 0.329, p = 0.0368, n = 192
+  - 2020 | Atlanta_City+Buffer | Second_Residence | denial_rate:
+    Coef = 0.180, R² = 0.110, p = 0.0405, n = 169
+  - 2021 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.107, R² = 0.686, p = 3.057e-06, n = 192
+  - 2021 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = 0.087, R² = 0.627, p = 0.0003685, n = 191
+  - 2021 | Clayton | Investment_Property | total_apps:
+    Coef = -19.524, R² = 0.305, p = 0.04194, n = 44
+  - 2021 | Clayton | Second_Residence | denial_rate:
+    Coef = -0.583, R² = 0.227, p = 0.02576, n = 34
+  - 2018 | Cobb | Investment_Property | total_apps:
+    Coef = -17.769, R² = 0.136, p = 0.03298, n = 110
+  - 2018 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.113, R² = 0.175, p = 0.009691, n = 109
+  - 2018 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.149, R² = 0.159, p = 0.002625, n = 109
+  - 2019 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.173, R² = 0.448, p = 0.0006823, n = 110
+  - 2019 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.165, R² = 0.273, p = 0.0002362, n = 109
+  - 2020 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.099, R² = 0.240, p = 0.008225, n = 110
+  - 2018 | DeKalb | Investment_Property | total_apps:
+    Coef = -28.278, R² = 0.252, p = 0.0007825, n = 98
+  - 2019 | DeKalb | Investment_Property | total_apps:
+    Coef = -35.241, R² = 0.266, p = 0.0001407, n = 97
+  - 2020 | DeKalb | Investment_Property | total_apps:
+    Coef = -21.352, R² = 0.229, p = 0.02975, n = 98
+  - 2021 | DeKalb | Investment_Property | total_apps:
+    Coef = -35.143, R² = 0.209, p = 0.01056, n = 99
+  - 2018 | Fulton | Investment_Property | total_apps:
+    Coef = -41.000, R² = 0.243, p = 0.01606, n = 68
+  - 2018 | Fulton | Principal_Residence | total_apps:
+    Coef = -543.875, R² = 0.144, p = 0.03206, n = 68
+  - 2019 | Fulton | Investment_Property | total_apps:
+    Coef = -44.750, R² = 0.313, p = 0.001726, n = 68
+  - 2018 | Gwinnett | Principal_Residence | conversion_rate:
+    Coef = -0.043, R² = 0.130, p = 0.003634, n = 113
+  - 2018 | Gwinnett | Principal_Residence | denial_rate:
+    Coef = 0.037, R² = 0.094, p = 0.0183, n = 113
+  - 2018 | Gwinnett | Principal_Residence | total_apps:
+    Coef = -236.404, R² = 0.287, p = 0.0002744, n = 113
+  - 2019 | Gwinnett | Principal_Residence | conversion_rate:
+    Coef = -0.047, R² = 0.127, p = 0.003067, n = 113
+  - 2019 | Gwinnett | Principal_Residence | denial_rate:
+    Coef = 0.050, R² = 0.134, p = 0.001489, n = 113
+  - 2019 | Gwinnett | Principal_Residence | total_apps:
+    Coef = -295.953, R² = 0.279, p = 0.0001868, n = 113
+  - 2019 | Gwinnett | Second_Residence | total_apps:
+    Coef = -2.773, R² = 0.236, p = 0.0128, n = 106
+  - 2020 | Gwinnett | Investment_Property | conversion_rate:
+    Coef = 0.066, R² = 0.072, p = 0.04972, n = 113
+  - 2020 | Gwinnett | Principal_Residence | conversion_rate:
+    Coef = -0.034, R² = 0.142, p = 0.02598, n = 113
+  - 2020 | Gwinnett | Principal_Residence | denial_rate:
+    Coef = 0.037, R² = 0.223, p = 0.01194, n = 113
+  - 2020 | Gwinnett | Principal_Residence | total_apps:
+    Coef = -422.264, R² = 0.297, p = 0.0003037, n = 113
+  - 2021 | Gwinnett | Principal_Residence | conversion_rate:
+    Coef = -0.029, R² = 0.104, p = 0.0491, n = 113
+  - 2021 | Gwinnett | Principal_Residence | denial_rate:
+    Coef = 0.039, R² = 0.149, p = 0.01125, n = 113
+  - 2021 | Gwinnett | Principal_Residence | total_apps:
+    Coef = -455.609, R² = 0.277, p = 0.0002499, n = 113
+  - 2021 | Gwinnett | Second_Residence | denial_rate:
+    Coef = 0.125, R² = 0.048, p = 0.04841, n = 106
+  - 2021 | Gwinnett | Second_Residence | total_apps:
+    Coef = -4.301, R² = 0.160, p = 0.01827, n = 109
+
+=== Summary for Typology: typology_Ongoing Displacement ===
+
+In 34 statistically significant models, this typology had a generally negative relationship with the outcome. Average coefficient: -77.979 (magnitude: 81.566), average R²: 0.293.
+
+  - 2018 | Atlanta_City+Buffer | Investment_Property | total_apps:
+    Coef = 18.769, R² = 0.171, p = 0.01092, n = 191
+  - 2018 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.127, R² = 0.452, p = 0.0004508, n = 189
+  - 2018 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = 0.098, R² = 0.447, p = 0.008143, n = 189
+  - 2018 | Atlanta_City+Buffer | Principal_Residence | total_apps:
+    Coef = -120.322, R² = 0.278, p = 0.02642, n = 189
+  - 2019 | Atlanta_City+Buffer | Investment_Property | total_apps:
+    Coef = 16.517, R² = 0.180, p = 0.01989, n = 188
+  - 2019 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.119, R² = 0.490, p = 0.003881, n = 192
+  - 2019 | Atlanta_City+Buffer | Second_Residence | denial_rate:
+    Coef = 0.320, R² = 0.164, p = 0.0273, n = 168
+  - 2020 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.171, R² = 0.454, p = 3.768e-06, n = 192
+  - 2020 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = 0.153, R² = 0.373, p = 0.0002004, n = 192
+  - 2020 | Atlanta_City+Buffer | Principal_Residence | total_apps:
+    Coef = -220.881, R² = 0.329, p = 0.02492, n = 192
+  - 2021 | Atlanta_City+Buffer | Investment_Property | total_apps:
+    Coef = 23.559, R² = 0.175, p = 0.0102, n = 191
+  - 2021 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.119, R² = 0.686, p = 1.118e-05, n = 192
+  - 2021 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = 0.097, R² = 0.627, p = 0.0008675, n = 191
+  - 2021 | Atlanta_City+Buffer | Principal_Residence | total_apps:
+    Coef = -202.266, R² = 0.292, p = 0.04237, n = 192
+  - 2021 | Atlanta_City+Buffer | Second_Residence | conversion_rate:
+    Coef = -0.214, R² = 0.173, p = 0.04812, n = 176
+  - 2021 | Atlanta_City+Buffer | Second_Residence | denial_rate:
+    Coef = 0.229, R² = 0.197, p = 0.04092, n = 170
+  - 2018 | Cobb | Investment_Property | total_apps:
+    Coef = -32.000, R² = 0.136, p = 0.01755, n = 110
+  - 2018 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.162, R² = 0.175, p = 0.02041, n = 109
+  - 2018 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.186, R² = 0.159, p = 0.01896, n = 109
+  - 2019 | Cobb | Investment_Property | conversion_rate:
+    Coef = 0.454, R² = 0.118, p = 0.005504, n = 109
+  - 2019 | Cobb | Investment_Property | total_apps:
+    Coef = -36.500, R² = 0.191, p = 0.00658, n = 109
+  - 2020 | Cobb | Investment_Property | total_apps:
+    Coef = -31.500, R² = 0.128, p = 0.04913, n = 110
+  - 2020 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.152, R² = 0.269, p = 0.03966, n = 110
+  - 2020 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.152, R² = 0.240, p = 0.01176, n = 110
+  - 2021 | Cobb | Investment_Property | total_apps:
+    Coef = -44.500, R² = 0.144, p = 0.02782, n = 109
+  - 2018 | Fulton | Investment_Property | total_apps:
+    Coef = -65.000, R² = 0.243, p = 0.004578, n = 68
+  - 2018 | Fulton | Principal_Residence | conversion_rate:
+    Coef = -0.221, R² = 0.538, p = 0.01009, n = 68
+  - 2018 | Fulton | Principal_Residence | denial_rate:
+    Coef = 0.318, R² = 0.609, p = 0.0001696, n = 68
+  - 2018 | Fulton | Principal_Residence | total_apps:
+    Coef = -767.000, R² = 0.144, p = 0.02368, n = 68
+  - 2019 | Fulton | Investment_Property | total_apps:
+    Coef = -64.000, R² = 0.313, p = 0.0008322, n = 68
+  - 2019 | Fulton | Principal_Residence | denial_rate:
+    Coef = 0.153, R² = 0.460, p = 0.04632, n = 68
+  - 2019 | Fulton | Principal_Residence | total_apps:
+    Coef = -927.000, R² = 0.125, p = 0.03616, n = 68
+  - 2020 | Fulton | Investment_Property | total_apps:
+    Coef = -81.000, R² = 0.226, p = 0.02045, n = 68
+  - 2021 | Fulton | Investment_Property | total_apps:
+    Coef = -119.000, R² = 0.271, p = 0.00626, n = 68
+
+=== Summary for Typology: typology_Stable Moderate/Mixed Income ===
+
+In 45 statistically significant models, this typology had a generally negative relationship with the outcome. Average coefficient: -3.034 (magnitude: 43.426), average R²: 0.262.
+
+  - 2018 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = 0.060, R² = 0.452, p = 0.04211, n = 189
+  - 2018 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = -0.072, R² = 0.447, p = 0.0194, n = 189
+  - 2018 | Atlanta_City+Buffer | Second_Residence | conversion_rate:
+    Coef = 0.325, R² = 0.147, p = 0.002597, n = 167
+  - 2018 | Atlanta_City+Buffer | Second_Residence | denial_rate:
+    Coef = -0.251, R² = 0.144, p = 0.02935, n = 163
+  - 2020 | Atlanta_City+Buffer | Investment_Property | conversion_rate:
+    Coef = 0.112, R² = 0.170, p = 0.03211, n = 190
+  - 2018 | Clayton | Investment_Property | conversion_rate:
+    Coef = -0.218, R² = 0.116, p = 0.03668, n = 44
+  - 2020 | Clayton | Investment_Property | conversion_rate:
+    Coef = -0.272, R² = 0.163, p = 0.02715, n = 44
+  - 2020 | Clayton | Investment_Property | denial_rate:
+    Coef = 0.342, R² = 0.275, p = 0.00304, n = 43
+  - 2021 | Clayton | Investment_Property | total_apps:
+    Coef = -22.267, R² = 0.305, p = 0.04321, n = 44
+  - 2021 | Clayton | Second_Residence | denial_rate:
+    Coef = -0.749, R² = 0.227, p = 0.01203, n = 34
+  - 2018 | Cobb | Investment_Property | total_apps:
+    Coef = -22.930, R² = 0.136, p = 0.004197, n = 110
+  - 2018 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.158, R² = 0.175, p = 0.0001843, n = 109
+  - 2018 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.182, R² = 0.159, p = 0.0001403, n = 109
+  - 2019 | Cobb | Investment_Property | total_apps:
+    Coef = -22.291, R² = 0.191, p = 0.005012, n = 109
+  - 2019 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.198, R² = 0.448, p = 5.284e-05, n = 110
+  - 2019 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.191, R² = 0.273, p = 1.098e-05, n = 109
+  - 2019 | Cobb | Second_Residence | denial_rate:
+    Coef = -0.502, R² = 0.180, p = 0.01349, n = 95
+  - 2020 | Cobb | Investment_Property | total_apps:
+    Coef = -20.988, R² = 0.128, p = 0.02684, n = 110
+  - 2020 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.122, R² = 0.269, p = 0.005601, n = 110
+  - 2020 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.134, R² = 0.240, p = 0.000225, n = 110
+  - 2021 | Cobb | Investment_Property | total_apps:
+    Coef = -28.849, R² = 0.144, p = 0.01601, n = 109
+  - 2021 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.096, R² = 0.481, p = 0.02406, n = 110
+  - 2021 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.089, R² = 0.212, p = 0.005461, n = 109
+  - 2018 | DeKalb | Investment_Property | total_apps:
+    Coef = -36.500, R² = 0.252, p = 2.704e-05, n = 98
+  - 2019 | DeKalb | Investment_Property | total_apps:
+    Coef = -43.974, R² = 0.266, p = 4.359e-06, n = 97
+  - 2020 | DeKalb | Investment_Property | total_apps:
+    Coef = -33.500, R² = 0.229, p = 0.0009558, n = 98
+  - 2021 | DeKalb | Investment_Property | total_apps:
+    Coef = -50.605, R² = 0.209, p = 0.0003667, n = 99
+  - 2018 | Fulton | Investment_Property | total_apps:
+    Coef = -48.969, R² = 0.243, p = 0.003026, n = 68
+  - 2018 | Fulton | Principal_Residence | total_apps:
+    Coef = -502.281, R² = 0.144, p = 0.0384, n = 68
+  - 2019 | Fulton | Investment_Property | total_apps:
+    Coef = -54.688, R² = 0.313, p = 9.361e-05, n = 68
+  - 2020 | Fulton | Investment_Property | total_apps:
+    Coef = -65.406, R² = 0.226, p = 0.00955, n = 68
+  - 2020 | Fulton | Principal_Residence | conversion_rate:
+    Coef = 0.127, R² = 0.549, p = 0.007355, n = 68
+  - 2020 | Fulton | Principal_Residence | denial_rate:
+    Coef = -0.128, R² = 0.532, p = 0.01025, n = 68
+  - 2021 | Fulton | Investment_Property | total_apps:
+    Coef = -89.156, R² = 0.271, p = 0.004443, n = 68
+  - 2021 | Fulton | Principal_Residence | conversion_rate:
+    Coef = 0.150, R² = 0.561, p = 0.00518, n = 68
+  - 2021 | Fulton | Principal_Residence | denial_rate:
+    Coef = -0.160, R² = 0.588, p = 0.0007616, n = 68
+  - 2018 | Gwinnett | Investment_Property | total_apps:
+    Coef = 9.625, R² = 0.074, p = 0.02521, n = 113
+  - 2018 | Gwinnett | Principal_Residence | total_apps:
+    Coef = 147.986, R² = 0.287, p = 0.0104, n = 113
+  - 2018 | Gwinnett | Second_Residence | total_apps:
+    Coef = 4.393, R² = 0.169, p = 0.0007573, n = 104
+  - 2019 | Gwinnett | Principal_Residence | total_apps:
+    Coef = 166.504, R² = 0.279, p = 0.01759, n = 113
+  - 2019 | Gwinnett | Second_Residence | total_apps:
+    Coef = 3.117, R² = 0.236, p = 0.001833, n = 106
+  - 2020 | Gwinnett | Principal_Residence | total_apps:
+    Coef = 296.021, R² = 0.297, p = 0.004545, n = 113
+  - 2020 | Gwinnett | Second_Residence | total_apps:
+    Coef = 3.489, R² = 0.126, p = 0.0302, n = 104
+  - 2021 | Gwinnett | Principal_Residence | total_apps:
+    Coef = 272.556, R² = 0.277, p = 0.01356, n = 113
+  - 2021 | Gwinnett | Second_Residence | total_apps:
+    Coef = 3.445, R² = 0.160, p = 0.03315, n = 109
+
+=== Summary for Typology: typology_Stable/Advanced Exclusive ===
+
+In 39 statistically significant models, this typology had a generally negative relationship with the outcome. Average coefficient: -6.501 (magnitude: 29.107), average R²: 0.293.
+
+  - 2018 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = 0.069, R² = 0.452, p = 0.04503, n = 189
+  - 2018 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = -0.073, R² = 0.447, p = 0.03993, n = 189
+  - 2018 | Atlanta_City+Buffer | Second_Residence | conversion_rate:
+    Coef = 0.452, R² = 0.147, p = 0.0004242, n = 167
+  - 2018 | Atlanta_City+Buffer | Second_Residence | denial_rate:
+    Coef = -0.365, R² = 0.144, p = 0.006943, n = 163
+  - 2019 | Atlanta_City+Buffer | Investment_Property | total_apps:
+    Coef = -14.636, R² = 0.180, p = 0.03301, n = 188
+  - 2019 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = 0.093, R² = 0.490, p = 0.0196, n = 192
+  - 2019 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = -0.089, R² = 0.501, p = 0.04715, n = 192
+  - 2020 | Atlanta_City+Buffer | Investment_Property | conversion_rate:
+    Coef = 0.136, R² = 0.170, p = 0.02656, n = 190
+  - 2020 | Atlanta_City+Buffer | Investment_Property | total_apps:
+    Coef = -18.691, R² = 0.148, p = 0.01091, n = 190
+  - 2021 | Atlanta_City+Buffer | Investment_Property | conversion_rate:
+    Coef = 0.113, R² = 0.144, p = 0.02533, n = 191
+  - 2021 | Atlanta_City+Buffer | Investment_Property | total_apps:
+    Coef = -19.564, R² = 0.175, p = 0.02733, n = 191
+  - 2021 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = 0.053, R² = 0.686, p = 0.03743, n = 192
+  - 2018 | Cobb | Investment_Property | total_apps:
+    Coef = -29.800, R² = 0.136, p = 0.001373, n = 110
+  - 2018 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.158, R² = 0.175, p = 0.001133, n = 109
+  - 2018 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.186, R² = 0.159, p = 0.0006901, n = 109
+  - 2019 | Cobb | Investment_Property | total_apps:
+    Coef = -31.100, R² = 0.191, p = 0.0007908, n = 109
+  - 2019 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.233, R² = 0.448, p = 3.919e-05, n = 110
+  - 2019 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.227, R² = 0.273, p = 6.528e-06, n = 109
+  - 2019 | Cobb | Second_Residence | denial_rate:
+    Coef = -0.550, R² = 0.180, p = 0.02289, n = 95
+  - 2020 | Cobb | Investment_Property | total_apps:
+    Coef = -29.100, R² = 0.128, p = 0.00829, n = 110
+  - 2020 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.157, R² = 0.269, p = 0.002101, n = 110
+  - 2020 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.166, R² = 0.240, p = 8.431e-05, n = 110
+  - 2020 | Cobb | Principal_Residence | total_apps:
+    Coef = 438.900, R² = 0.366, p = 0.01637, n = 110
+  - 2021 | Cobb | Investment_Property | total_apps:
+    Coef = -42.100, R² = 0.144, p = 0.00258, n = 109
+  - 2021 | Cobb | Principal_Residence | conversion_rate:
+    Coef = 0.127, R² = 0.481, p = 0.01013, n = 110
+  - 2021 | Cobb | Principal_Residence | denial_rate:
+    Coef = -0.137, R² = 0.212, p = 0.0002777, n = 109
+  - 2018 | DeKalb | Investment_Property | total_apps:
+    Coef = -44.000, R² = 0.252, p = 0.000147, n = 98
+  - 2019 | DeKalb | Investment_Property | total_apps:
+    Coef = -52.000, R² = 0.266, p = 4.314e-05, n = 97
+  - 2020 | DeKalb | Investment_Property | total_apps:
+    Coef = -41.500, R² = 0.229, p = 0.002246, n = 98
+  - 2020 | DeKalb | Principal_Residence | denial_rate:
+    Coef = -0.197, R² = 0.102, p = 0.03747, n = 99
+  - 2021 | DeKalb | Investment_Property | total_apps:
+    Coef = -57.000, R² = 0.209, p = 0.00258, n = 99
+  - 2018 | Fulton | Investment_Property | total_apps:
+    Coef = -59.636, R² = 0.243, p = 0.0005347, n = 68
+  - 2019 | Fulton | Investment_Property | total_apps:
+    Coef = -61.182, R² = 0.313, p = 2.617e-05, n = 68
+  - 2020 | Fulton | Investment_Property | total_apps:
+    Coef = -82.909, R² = 0.226, p = 0.00163, n = 68
+  - 2020 | Fulton | Principal_Residence | conversion_rate:
+    Coef = 0.146, R² = 0.549, p = 0.002923, n = 68
+  - 2020 | Fulton | Principal_Residence | denial_rate:
+    Coef = -0.141, R² = 0.532, p = 0.006249, n = 68
+  - 2021 | Fulton | Investment_Property | total_apps:
+    Coef = -108.818, R² = 0.271, p = 0.0008609, n = 68
+  - 2021 | Fulton | Principal_Residence | conversion_rate:
+    Coef = 0.181, R² = 0.561, p = 0.001219, n = 68
+  - 2021 | Fulton | Principal_Residence | denial_rate:
+    Coef = -0.176, R² = 0.588, p = 0.0003461, n = 68
+
+=== Summary for Typology: typology_Unavailable or Unreliable Data ===
+
+In 10 statistically significant models, this typology had a generally positive relationship with the outcome. Average coefficient: -37.296 (magnitude: 37.926), average R²: 0.395.
+
+  - 2018 | Atlanta_City+Buffer | Investment_Property | conversion_rate:
+    Coef = 0.449, R² = 0.180, p = 0.001514, n = 191
+  - 2019 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.566, R² = 0.490, p = 4.684e-12, n = 192
+  - 2019 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = 0.738, R² = 0.501, p = 4.222e-15, n = 192
+  - 2020 | Atlanta_City+Buffer | Investment_Property | conversion_rate:
+    Coef = 0.498, R² = 0.170, p = 0.002144, n = 190
+  - 2020 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = 0.199, R² = 0.454, p = 0.003407, n = 192
+  - 2020 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = -0.178, R² = 0.373, p = 0.02024, n = 192
+  - 2020 | Atlanta_City+Buffer | Principal_Residence | total_apps:
+    Coef = -374.727, R² = 0.329, p = 0.04234, n = 192
+  - 2021 | Atlanta_City+Buffer | Investment_Property | conversion_rate:
+    Coef = 0.433, R² = 0.144, p = 0.001236, n = 191
+  - 2021 | Atlanta_City+Buffer | Principal_Residence | conversion_rate:
+    Coef = -0.639, R² = 0.686, p = 1.314e-27, n = 192
+  - 2021 | Atlanta_City+Buffer | Principal_Residence | denial_rate:
+    Coef = 0.832, R² = 0.627, p = 4.127e-23, n = 191
