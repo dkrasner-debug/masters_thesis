@@ -1,0 +1,14 @@
+In 10 different contexts, 'tract median age of housing units' was statistically significant and generally had a negative relationship with total mortgage applications. It showed an average coefficient of -6.744 (an average magnitude of 6.794).
+Contexts: Atlanta_City_Limits (Investment_Property); Atlanta_City_Limits (Second_Residence); Cherokee (Principal_Residence); Clayton (Principal_Residence); Clayton (Second_Residence); Cobb (Principal_Residence); Fulton (Principal_Residence); Gwinnett (Principal_Residence); Gwinnett (Second_Residence); Henry (Principal_Residence)
+
+
+In 9 different contexts, 'tract minority population percent' was statistically significant and generally had a positive relationship with total mortgage applications. It showed an average coefficient of -1.150 (an average magnitude of 1.440).
+Contexts: Atlanta_City_Limits (Investment_Property); Cherokee (Investment_Property); Cobb (Investment_Property); Cobb (Principal_Residence); DeKalb (Investment_Property); Fulton (Investment_Property); Gwinnett (Principal_Residence); Gwinnett (Second_Residence); Henry (Investment_Property)
+
+
+In 13 different contexts, 'tract to msa income percentage' was statistically significant and generally had a positive relationship with total mortgage applications. It showed an average coefficient of 1.311 (an average magnitude of 1.378).
+Contexts: Atlanta_City_Limits (Investment_Property); Atlanta_City_Limits (Principal_Residence); Cherokee (Investment_Property); Clayton (Principal_Residence); Cobb (Investment_Property); Cobb (Principal_Residence); DeKalb (Investment_Property); DeKalb (Principal_Residence); Douglas (Principal_Residence); Fulton (Investment_Property); Fulton (Principal_Residence); Gwinnett (Principal_Residence); Henry (Principal_Residence)
+
+
+In 18 different contexts, 'tract owner occupied units' was statistically significant and generally had a positive relationship with total mortgage applications. It showed an average coefficient of 0.125 (an average magnitude of 0.125).
+Contexts: Atlanta_City_Limits (Principal_Residence); Atlanta_City_Limits (Second_Residence); Cherokee (Principal_Residence); Clayton (Investment_Property); Clayton (Principal_Residence); Clayton (Second_Residence); Cobb (Principal_Residence); Cobb (Second_Residence); DeKalb (Investment_Property); DeKalb (Principal_Residence); DeKalb (Second_Residence); Douglas (Principal_Residence); Fulton (Principal_Residence); Fulton (Second_Residence); Gwinnett (Investment_Property); Gwinnett (Principal_Residence); Gwinnett (Second_Residence); Henry (Principal_Residence)
