@@ -8,17 +8,16 @@ from matplotlib import colors as mcolors
 
 # === Load data ===
 import os
-import gdown
+import urllib.request
 
-# Google Drive file IDs (not full URLs!)
-df_id = "1mx2ctKeLb0lJrddK3DWMqqAD1OGaEM7o"
-gdf_id = "1HpUlHlOwXHOqJsuWgNOOalOamxGePKiY"
+df_url = "https://drive.google.com/uc?export=download&id=1mx2ctKeLb0lJrddK3DWMqqAD1OGaEM7o"
+gdf_url = "https://drive.google.com/uc?export=download&id=1HpUlHlOwXHOqJsuWgNOOalOamxGePKiY"
 
-# Download files only if they don't already exist
 if not os.path.exists("df_merged.pkl"):
-    gdown.download(id=df_id, output="df_merged.pkl", quiet=False)
+    urllib.request.urlretrieve(df_url, "df_merged.pkl")
 if not os.path.exists("master_gdf.pkl"):
-    gdown.download(id=gdf_id, output="master_gdf.pkl", quiet=False)
+    urllib.request.urlretrieve(gdf_url, "master_gdf.pkl")
+
 
 df = pd.read_pickle("df_merged.pkl")
 master_gdf = pd.read_pickle("master_gdf.pkl")
@@ -181,8 +180,6 @@ def update_figures(target, occupancy, year):
     )
 
     return fig1, fig2
-
-import os
 
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 8050))  # fallback to 8050 for local use
