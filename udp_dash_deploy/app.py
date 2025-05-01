@@ -8,20 +8,20 @@ from matplotlib import colors as mcolors
 
 # === Load data ===
 import os
-import urllib.request
+import gdown
 
-# Google Drive direct download links (replace with your actual IDs)
-df_url = "https://drive.google.com/uc?export=download&id=1mx2ctKeLb0lJrddK3DWMqqAD1OGaEM7o"
-gdf_url = "https://drive.google.com/uc?export=download&id=1HpUlHlOwXHOqJsuWgNOOalOamxGePKiY"
+# Google Drive file IDs (not full URLs!)
+df_id = "1mx2ctKeLb0lJrddK3DWMqqAD1OGaEM7o"
+gdf_id = "1HpUlHlOwXHOqJsuWgNOOalOamxGePKiY"
 
+# Download files only if they don't already exist
 if not os.path.exists("df_merged.pkl"):
-    urllib.request.urlretrieve(df_url, "df_merged.pkl")
+    gdown.download(id=df_id, output="df_merged.pkl", quiet=False)
 if not os.path.exists("master_gdf.pkl"):
-    urllib.request.urlretrieve(gdf_url, "master_gdf.pkl")
+    gdown.download(id=gdf_id, output="master_gdf.pkl", quiet=False)
 
 df = pd.read_pickle("df_merged.pkl")
 master_gdf = gpd.read_pickle("master_gdf.pkl")
-
 
 app = Dash(__name__)
 app.title = "UDP Coefficient Explorer"
