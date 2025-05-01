@@ -21,7 +21,7 @@ if not os.path.exists("master_gdf.pkl"):
     gdown.download(id=gdf_id, output="master_gdf.pkl", quiet=False)
 
 df = pd.read_pickle("df_merged.pkl")
-master_gdf = gpd.read_pickle("master_gdf.pkl")
+master_gdf = pd.read_pickle("master_gdf.pkl")
 
 app = Dash(__name__)
 app.title = "UDP Coefficient Explorer"
